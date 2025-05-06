@@ -29,4 +29,4 @@ From 05.05. onward job items are tied to kanban board job items.
 | 02.05. | 4 | 114 | Worked on implementing a plugin based on the instructions |
 | 03.05. | 2 | 116 | Worked on implementing a plugin based on the instructions |
 | 04.05. | 6 | 122 | Re-read few of the articles, tried another approach on the plugin implementation |
-| 05.05. | 10 | 132 | Worked on: #1, #2. Finished:  #3 |
+| 05.05. | 11 | 133 | Worked on: #1, #2. Finished:  #3 |
