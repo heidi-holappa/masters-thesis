@@ -32,4 +32,6 @@ From 05.05. onward job items are tied to kanban board job items.
 | 05.05. | 11 | 133 | Worked on: #1, #2, #3 |
 | 06.05. | 10 | 143 | Worked on: #1, #4, #5 | 
 | 07.05. | 8,5 | 151,5 | Worked on #5 |
-| 08.05. | 7 | 158,5 | Worked on #5 based on the added comment | 
+| 08.05. | 8 | 159,5 | Worked on #5 based on the added comment, wrote preliminary content for thesis | 
+| 09.05. | 10 | 169,5 | Worked on #5, wrote initial text based on articles, re-read ETISS paper, studied domain concepts |
+
