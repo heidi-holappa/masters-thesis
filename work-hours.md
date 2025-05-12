@@ -35,3 +35,18 @@ From 05.05. onward job items are tied to kanban board job items.
 | 08.05. | 8 | 159,5 | Worked on #5 based on the added comment, wrote preliminary content for thesis | 
 | 09.05. | 10,5 | 170 | Worked on #5, wrote initial text based on articles, re-read ETISS paper, studied domain concepts |
 | 10.05. | 8 | 178 | Worked on #6 and #11. Read Introduction to the DWARF Debugging Format, experimented with DWARF | 
+| 11.05. | 1 | 179 | Re-read ETISS articles |
+| 12.05. | 11 | 190 |  Worked on #6 and #11 wrote and read alot, tried to find new references |
+| 13.05. |    |     |     |
+| 14.05. |    |     |     |
+| 15.05. |    |     |     |
+| 16.05. |    |     |     |
+| 17.05. |    |     |     |
+| 18.05. |    |     |     |
+| 19.05. |    |     |     |
+| 20.05. |    |     |     |
+| 21.05. |    |     |     |
+| 22.05. |    |     |     |
+| 23.05. |    |     |     |
+| 24.05. |    |     |     |
+
