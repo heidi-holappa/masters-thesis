@@ -37,7 +37,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 10.05. | 8 | 178 | Worked on #6 and #11. Read Introduction to the DWARF Debugging Format, experimented with DWARF | 
 | 11.05. | 1 | 179 | Re-read ETISS articles |
 | 12.05. | 11 | 190 |  Worked on #6 and #11 wrote and read alot, tried to find new references |
-| 13.05. |    |     |     |
+| 13.05. | 9  | 199 |  Worked on #8, #9, #10, #11. Nothing was Finished but learned alot.   |
 | 14.05. |    |     |     |
 | 15.05. |    |     |     |
 | 16.05. |    |     |     |
