@@ -40,7 +40,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 13.05. | 9  | 199 |  Worked on #8, #9, #10, #11. Nothing was Finished but learned alot.   |
 | 14.05. | 11 | 210 |  Continued work on #11, #12, Read more articles on verification.   |
 | 15.05. | 11 | 211 |  Wrote a little, worked on #9, #12, #13. Refactored ISAValidationExtension  |
-| 16.05. | 11 | 222 |     |
+| 16.05. | 11 | 222 |  Worked on #11 and #15. Felt like I made very little progress, but now I now the basics of Ghidra and got a glimpse of IDA-free. And now I have RISC-V binaries with debug information.  |
 | 17.05. |    |     |     |
 | 18.05. |    |     |     |
 | 19.05. |    |     |     |
