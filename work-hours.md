@@ -38,9 +38,9 @@ From 05.05. onward job items are tied to kanban board job items.
 | 11.05. | 1 | 179 | Re-read ETISS articles |
 | 12.05. | 11 | 190 |  Worked on #6 and #11 wrote and read alot, tried to find new references |
 | 13.05. | 9  | 199 |  Worked on #8, #9, #10, #11. Nothing was Finished but learned alot.   |
-| 14.05. |    |     |     |
-| 15.05. |    |     |     |
-| 16.05. |    |     |     |
+| 14.05. | 11 | 210 |  Continued work on #11, #12, Read more articles on verification.   |
+| 15.05. | 11 | 211 |  Wrote a little, worked on #9, #12, #13. Refactored ISAValidationExtension  |
+| 16.05. | 11 | 222 |     |
 | 17.05. |    |     |     |
 | 18.05. |    |     |     |
 | 19.05. |    |     |     |
