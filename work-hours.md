@@ -42,7 +42,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 15.05. | 11 | 211 |  Wrote a little, worked on #9, #12, #13. Refactored ISAValidationExtension  |
 | 16.05. | 11 | 222 |  Worked on #11 and #15. Felt like I made very little progress, but now I now the basics of Ghidra and got a glimpse of IDA-free. And now I have RISC-V binaries with debug information.  |
 | 17.05. |  6  | 228 | Re-read Foik et. al., spent rest of the day learning more on debugging tools and especially on DWARF  |
-| 18.05. |    |     |     |
+| 18.05. |  6 |  234 | Re-read PinTools introduction. Worked on #11. Finally understood the basic idea behind HybridVerifier! Worked on identifying what information to extract from DWARF and how.   |
 | 19.05. |    |     |     |
 | 20.05. |    |     |     |
 | 21.05. |    |     |     |
