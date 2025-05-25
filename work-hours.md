@@ -47,6 +47,20 @@ From 05.05. onward job items are tied to kanban board job items.
 | 20.05. |  11 | 256 | Worked on #11 and #18. Cool cumulative sum for today.  |
 | 21.05. | 10  | 266 | Worked on #18. Made an initial working script with pyelftools. Needs still refining.  |
 | 22.05. | 11 | 277 | Worked mostly on #18 and #19 |
-| 23.05. |    |     |     |
-| 24.05. |    |     |     |
+| 23.05. | 2  | 279 | Took a day off, but re-read the papers on DWARF introduction and HybridVerifier again.     |
+| 24.05. | 4  | 283 | Re-read the DWARF introduction twice and some sections of DWARF5 manual. Reed most of RV32 ABI specification |
+| 25.05. | 3  | 286  | Identified open DWARF issues and created tickets. Wrote more to introcution section of thesis.    |
+| 26.05. |    |     |      |
+| 27.05. |    |     |      |
+| 28.05. |    |     |      |
+| 29.05. |    |     |      |
+| 30.05. |    |     |      |
+| 31.05. |    |     |      |
+| 01.06. |    |     |      |
+| 02.06. |    |     |      |
+| 03.06. |    |     |      |
+| 04.06. |    |     |      |
+| 05.06. |    |     |      |
+| 06.06. |    |     |      |
+| 07.06. |    |     |      |
 
