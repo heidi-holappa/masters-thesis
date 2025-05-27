@@ -51,7 +51,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 24.05. | 4  | 283 | Re-read the DWARF introduction twice and some sections of DWARF5 manual. Reed most of RV32 ABI specification |
 | 25.05. | 3  | 286  | Identified open DWARF issues and created tickets. Wrote more to introcution section of thesis.    |
 | 26.05. | 1  | 287 | Wrote more to the introduction. Otherwise day off.   |
-| 27.05. | 11  |     |      |
+| 27.05. | 10  | 297  | Tried to understand InstructionSpecificCallbackAddress. Implemented instruction specific functionality to ISAExtensionValidator |
 | 28.05. |    |     |      |
 | 29.05. |    |     |      |
 | 30.05. |    |     |      |
