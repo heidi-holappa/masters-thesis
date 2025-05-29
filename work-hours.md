@@ -52,8 +52,8 @@ From 05.05. onward job items are tied to kanban board job items.
 | 25.05. | 3  | 286  | Identified open DWARF issues and created tickets. Wrote more to introcution section of thesis.    |
 | 26.05. | 1  | 287 | Wrote more to the introduction. Otherwise day off.   |
 | 27.05. | 10  | 297  | Tried to understand InstructionSpecificCallbackAddress. Implemented instruction specific functionality to ISAExtensionValidator |
-| 28.05. |    |     |      |
-| 29.05. |    |     |      |
+| 28.05. | 11 |  308 | Built a new plugin CJRTracer, built first part of the Python pipeline. Got some interesting results  |
+| 29.05. | 7  |  315 | Improved pipeline, added support for multiple instructions. Thought a lot about memory accesses. Tough task.  |
 | 30.05. |    |     |      |
 | 31.05. |    |     |      |
 | 01.06. |    |     |      |
