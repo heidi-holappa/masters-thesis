@@ -54,8 +54,8 @@ From 05.05. onward job items are tied to kanban board job items.
 | 27.05. | 10  | 297  | Tried to understand InstructionSpecificCallbackAddress. Implemented instruction specific functionality to ISAExtensionValidator |
 | 28.05. | 11 |  308 | Built a new plugin CJRTracer, built first part of the Python pipeline. Got some interesting results  |
 | 29.05. | 7  |  315 | Improved pipeline, added support for multiple instructions. Thought a lot about memory accesses. Tough task.  |
-| 30.05. |    |     |      |
-| 31.05. |    |     |      |
+| 30.05. | 11 |  326 | Worked on the Python pipeline, wrote more to the thesis  |
+| 31.05. | 6  |  332 |  Writing day, started work on methods section  |
 | 01.06. |    |     |      |
 | 02.06. |    |     |      |
 | 03.06. |    |     |      |
