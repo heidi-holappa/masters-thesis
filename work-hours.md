@@ -56,8 +56,8 @@ From 05.05. onward job items are tied to kanban board job items.
 | 29.05. | 7  |  315 | Improved pipeline, added support for multiple instructions. Thought a lot about memory accesses. Tough task.  |
 | 30.05. | 11 |  326 | Worked on the Python pipeline, wrote more to the thesis  |
 | 31.05. | 6  |  332 |  Writing day, started work on methods section  |
-| 01.06. |    |     |      |
-| 02.06. |    |     |      |
+| 01.06. | 6  |  338 | Writing day, good progress  |
+| 02.06. | 10 | 348 | Couple of meetings, worked on the Python pipeline. Looking better. Paying for some stupid design choices though. |
 | 03.06. |    |     |      |
 | 04.06. |    |     |      |
 | 05.06. |    |     |      |
