@@ -58,7 +58,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 31.05. | 6  |  332 |  Writing day, started work on methods section  |
 | 01.06. | 6  |  338 | Writing day, good progress  |
 | 02.06. | 10 | 348 | Couple of meetings, worked on the Python pipeline. Looking better. Paying for some stupid design choices though. |
-| 03.06. |    |     |      |
+| 03.06. | 11 | 359 | Re-did the Python pipeline, got bummed when verification crashed, fixed it with new constrains, added support for frame pointer to extract dynamically positioned values from stack   |
 | 04.06. |    |     |      |
 | 05.06. |    |     |      |
 | 06.06. |    |     |      |
