@@ -59,8 +59,21 @@ From 05.05. onward job items are tied to kanban board job items.
 | 01.06. | 6  |  338 | Writing day, good progress  |
 | 02.06. | 10 | 348 | Couple of meetings, worked on the Python pipeline. Looking better. Paying for some stupid design choices though. |
 | 03.06. | 11 | 359 | Re-did the Python pipeline, got bummed when verification crashed, fixed it with new constrains, added support for frame pointer to extract dynamically positioned values from stack   |
-| 04.06. |    |     |      |
+| 04.06. | 10 | 369 | Continued on the python pipeline, verification works on some cases. Looked into array ranges  |
 | 05.06. |    |     |      |
 | 06.06. |    |     |      |
 | 07.06. |    |     |      |
+| 08.06. |    |     |      |
+| 09.06. |    |     |      |
+| 10.06. |    |     |      |
+| 11.06. |    |     |      |
+| 12.06. |    |     |      |
+| 13.06. |    |     |      |
+| 14.06. |    |     |      |
+| 15.06. |    |     |      |
+| 16.06. |    |     |      |
+| 17.06. |    |     |      |
+| 18.06. |    |     |      |
+| 19.06. |    |     |      |
+
 
