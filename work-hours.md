@@ -60,8 +60,8 @@ From 05.05. onward job items are tied to kanban board job items.
 | 02.06. | 10 | 348 | Couple of meetings, worked on the Python pipeline. Looking better. Paying for some stupid design choices though. |
 | 03.06. | 11 | 359 | Re-did the Python pipeline, got bummed when verification crashed, fixed it with new constrains, added support for frame pointer to extract dynamically positioned values from stack   |
 | 04.06. | 10 | 369 | Continued on the python pipeline, verification works on some cases. Looked into array ranges  |
-| 05.06. |    |     |      |
-| 06.06. |    |     |      |
+| 05.06. | 8  | 377 | Struggled with the verification stage of the pipeline, added support for arrays. Thought about return value comparison   |
+| 06.06. |    |     | Implemented architecture specific return value comparison for int and float for two test architectures. Worked on thesis  |
 | 07.06. |    |     |      |
 | 08.06. |    |     |      |
 | 09.06. |    |     |      |
@@ -75,5 +75,26 @@ From 05.05. onward job items are tied to kanban board job items.
 | 17.06. |    |     |      |
 | 18.06. |    |     |      |
 | 19.06. |    |     |      |
+| 20.06. |    |     |      |
+| 21.06. |    |     |      |
+| 22.06. |    |     |      |
+| 23.06. |    |     |      |
+| 24.06. |    |     |      |
+| 25.06. |    |     |      |
+| 26.06. |    |     |      |
+| 27.06. |    |     |      |
+| 28.06. |    |     |      |
+| 29.06. |    |     |      |
+| 30.06. |    |     |      |
+| 01.07. |    |     |      |
+| 02.07. |    |     |      |
+| 03.07. |    |     |      |
+| 04.07. |    |     |      |
+| 05.07. |    |     |      |
+| 06.07. |    |     |      |
+| 07.07. |    |     |      |
+| 08.07. |    |     |      |
+| 09.07. |    |     |      |
+
 
 
