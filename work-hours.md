@@ -61,8 +61,8 @@ From 05.05. onward job items are tied to kanban board job items.
 | 03.06. | 11 | 359 | Re-did the Python pipeline, got bummed when verification crashed, fixed it with new constrains, added support for frame pointer to extract dynamically positioned values from stack   |
 | 04.06. | 10 | 369 | Continued on the python pipeline, verification works on some cases. Looked into array ranges  |
 | 05.06. | 8  | 377 | Struggled with the verification stage of the pipeline, added support for arrays. Thought about return value comparison   |
-| 06.06. |    |     | Implemented architecture specific return value comparison for int and float for two test architectures. Worked on thesis  |
-| 07.06. |    |     |      |
+| 06.06. | 10 | 387 | Implemented architecture specific return value comparison for int and float for two test architectures. Worked on thesis  |
+| 07.06. | 5  | 392  | Wrote more to the thesis   |
 | 08.06. |    |     |      |
 | 09.06. |    |     |      |
 | 10.06. |    |     |      |
