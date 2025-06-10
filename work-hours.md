@@ -63,9 +63,9 @@ From 05.05. onward job items are tied to kanban board job items.
 | 05.06. | 8  | 377 | Struggled with the verification stage of the pipeline, added support for arrays. Thought about return value comparison   |
 | 06.06. | 10 | 387 | Implemented architecture specific return value comparison for int and float for two test architectures. Worked on thesis  |
 | 07.06. | 5  | 392  | Wrote more to the thesis   |
-| 08.06. |    |     |      |
-| 09.06. |    |     |      |
-| 10.06. |    |     |      |
+| 08.06. | 4  | 396 | Wrote more to the thesis. Finished first versions of chapters 1 to 3. |
+| 09.06. | 11  | 407 | Decided to add a bit to chapter two on verification. Proof-read the thesis so far and edited text. |
+| 10.06. | 11 | 418 | Read multipel RISC-V specifications, studied CFA for DWARF, implemented frame base location extraction to script |
 | 11.06. |    |     |      |
 | 12.06. |    |     |      |
 | 13.06. |    |     |      |
