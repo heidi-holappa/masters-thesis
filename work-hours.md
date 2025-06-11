@@ -66,7 +66,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 08.06. | 4  | 396 | Wrote more to the thesis. Finished first versions of chapters 1 to 3. |
 | 09.06. | 11  | 407 | Decided to add a bit to chapter two on verification. Proof-read the thesis so far and edited text. |
 | 10.06. | 11 | 418 | Read multipel RISC-V specifications, studied CFA for DWARF, implemented frame base location extraction to script |
-| 11.06. |    |     |      |
+| 11.06. | 9  | 427  | Spent the day refactoring extracted Dwarf info structure to enable recursive verification of subprograms. Quite an ordeal!  |
 | 12.06. |    |     |      |
 | 13.06. |    |     |      |
 | 14.06. |    |     |      |
