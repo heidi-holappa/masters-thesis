@@ -68,7 +68,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 10.06. | 11 | 418 | Read multipel RISC-V specifications, studied CFA for DWARF, implemented frame base location extraction to script |
 | 11.06. | 9  | 427  | Spent the day refactoring extracted Dwarf info structure to enable recursive verification of subprograms. Quite an ordeal!  |
 | 12.06. | 11 | 438  | Continued refactoring and got the recursive function verification to work! Began implementing new base types for verification.  |
-| 13.06. |    |     |      |
+| 13.06. | 9  | 447 |  Worked on implementing verification for larger set of return value types. All basic types are now implemented. |
 | 14.06. |    |     |      |
 | 15.06. |    |     |      |
 | 16.06. |    |     |      |
