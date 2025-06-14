@@ -69,7 +69,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 11.06. | 9  | 427  | Spent the day refactoring extracted Dwarf info structure to enable recursive verification of subprograms. Quite an ordeal!  |
 | 12.06. | 11 | 438  | Continued refactoring and got the recursive function verification to work! Began implementing new base types for verification.  |
 | 13.06. | 9  | 447 |  Worked on implementing verification for larger set of return value types. All basic types are now implemented. |
-| 14.06. |    |     |      |
+| 14.06. | 5  | 452 | Worked on re-implementing long double, started working on unions and structs.   |
 | 15.06. |    |     |      |
 | 16.06. |    |     |      |
 | 17.06. |    |     |      |
