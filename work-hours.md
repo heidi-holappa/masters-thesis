@@ -71,7 +71,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 13.06. | 9  | 447 |  Worked on implementing verification for larger set of return value types. All basic types are now implemented. |
 | 14.06. | 5  | 452 | Worked on re-implementing long double, started working on unions and structs. |
 | 15.06. | 6  | 458 | Learned more on structs and began implementing a solution. Ran into problems. Stared at the screen for a couple of hours just thinking. Came up with a couple of solutions, but none ideal. Need to stare some more at my screen. Or go for a long walk to think about this all. |
-| 16.06. |    |     |      |
+| 16.06. | 6  | 464  | Couple of meetings, worked on structs. Made some progress.   |
 | 17.06. |    |     |      |
 | 18.06. |    |     |      |
 | 19.06. |    |     |      |
