@@ -73,7 +73,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 15.06. | 6  | 458 | Learned more on structs and began implementing a solution. Ran into problems. Stared at the screen for a couple of hours just thinking. Came up with a couple of solutions, but none ideal. Need to stare some more at my screen. Or go for a long walk to think about this all. |
 | 16.06. | 6  | 464  | Couple of meetings, worked on structs. Made some progress.   |
 | 17.06. | 12 | 476 | Struggling with structs and bitfield. Refactored the type informations into dataclasses. |
-| 18.06. |    |     |      |
+| 18.06. | 12 | 488  | Kept struggling with the structs. Got them to (almost) work! What a complex mess.  |
 | 19.06. |    |     |      |
 | 20.06. |    |     |      |
 | 21.06. |    |     |      |
