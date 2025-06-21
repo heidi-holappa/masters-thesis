@@ -76,7 +76,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 18.06. | 12 | 488  | Kept struggling with the structs. Got them to (almost) work! What a complex mess.  |
 | 19.06. | 8  | 496  | Added support for unions and fixed a bug with global variable verification. Wrote some tickets |
 | 20.06. | 5  | 501  | Added missing docstring, wrote first unittests, improved README.md  |
-| 21.06. |    |     |      |
+| 21.06. | 4  | 505 | Edited theses based on comments. Wrote a bit more.  |
 | 22.06. |    |     |      |
 | 23.06. |    |     |      |
 | 24.06. |    |     |      |
