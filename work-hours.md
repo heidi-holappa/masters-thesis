@@ -78,7 +78,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 20.06. | 5  | 501  | Added missing docstring, wrote first unittests, improved README.md  |
 | 21.06. | 4  | 505 | Edited theses based on comments. Wrote a bit more.  |
 | 22.06. | 4  | 509 | Started working on discussion section. Wrote more unittests. |
-| 23.06. |    |     |      |
+| 23.06. | 9  | 517 | Wrote more for the thesis, researched typical compiler bugs |
 | 24.06. |    |     |      |
 | 25.06. |    |     |      |
 | 26.06. |    |     |      |
