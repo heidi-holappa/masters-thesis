@@ -82,8 +82,8 @@ From 05.05. onward job items are tied to kanban board job items.
 | 24.06. | 9  | 526  | Set up first performance benchmarks, started to look into HDF5 and sqlite to improve performance |
 | 25.06. | 9  | 535 | Ran benchmarks, improved ETISS extension. Data is now written to binary file.  |
 | 26.06. | 9  | 544 | Ran more benchmarks, fixed a couple of bugs, found new bugs, fixed them. |
-| 27.06. |    |     |      |
-| 28.06. |    |     |      |
+| 27.06. | 5  | 549 | Wrote more to Results and Discussion Chapters, had a meeting with professor |
+| 28.06. | 2  | 551 | Took a day partially off to enjoy Helsinki Pride. Wrote for a bit in the morning. |
 | 29.06. |    |     |      |
 | 30.06. |    |     |      |
 | 01.07. |    |     |      |
