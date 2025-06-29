@@ -84,7 +84,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 26.06. | 9  | 544 | Ran more benchmarks, fixed a couple of bugs, found new bugs, fixed them. |
 | 27.06. | 5  | 549 | Wrote more to Results and Discussion Chapters, had a meeting with professor |
 | 28.06. | 2  | 551 | Took a day partially off to enjoy Helsinki Pride. Wrote for a bit in the morning. |
-| 29.06. |    |     |      |
+| 29.06. | 4  | 555 | Experimented with fault injection. Prepared for next meeting.  |
 | 30.06. |    |     |      |
 | 01.07. |    |     |      |
 | 02.07. |    |     |      |
