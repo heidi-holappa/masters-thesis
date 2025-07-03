@@ -88,7 +88,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 30.06. | 10 | 565 | Meeting. Explored creating a plugin for data writes. Began creating a test suite to test behavioral faults in instruction set under verification. |
 | 01.07. | 10 | 575 | Improved verification output, got familiar with pipeline for Seal5, improved test suite    |
 | 02.07. | 10 | 585 | Still improved verification test suites, got familiar with inlined asm statements, had a meeting.  |
-| 03.07. |    |     |      |
+| 03.07. | 10 | 595 | Had the most frustrating day. Fought with CoreDSL 2.0 patches and a unfamiliar pipeline. Got some results finally, have to continue tomorrow. |
 | 04.07. |    |     |      |
 | 05.07. |    |     |      |
 | 06.07. |    |     |      |
