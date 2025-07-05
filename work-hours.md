@@ -90,7 +90,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 02.07. | 10 | 585 | Still improved verification test suites, got familiar with inlined asm statements, had a meeting.  |
 | 03.07. | 10 | 595 | Had the most frustrating day. Fought with CoreDSL 2.0 patches and a unfamiliar pipeline. Got some results finally, have to continue tomorrow. |
 | 04.07. | 9  | 604 | Found a way to used patched generated code from CDSL->ETISS. Made example fault cases. Wrote thesis. |
-| 05.07. |    |     |      |
+| 05.07. | 4  | 608 | Worked on the thesis. Updated visualizations, finished TODOs |
 | 06.07. |    |     |      |
 | 07.07. |    |     |      |
 | 08.07. |    |     |      |
