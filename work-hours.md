@@ -91,10 +91,33 @@ From 05.05. onward job items are tied to kanban board job items.
 | 03.07. | 10 | 595 | Had the most frustrating day. Fought with CoreDSL 2.0 patches and a unfamiliar pipeline. Got some results finally, have to continue tomorrow. |
 | 04.07. | 9  | 604 | Found a way to used patched generated code from CDSL->ETISS. Made example fault cases. Wrote thesis. |
 | 05.07. | 4  | 608 | Worked on the thesis. Updated visualizations, finished TODOs |
-| 06.07. |    |     |      |
+| 06.07. | 4  | 612 | Proofread first chapters, printed out the thesis |
 | 07.07. |    |     |      |
 | 08.07. |    |     |      |
 | 09.07. |    |     |      |
+| 10.07. |    |     |      |
+| 11.07. |    |     |      |
+| 12.07. |    |     |      |
+| 13.07. |    |     |      |
+| 14.07. |    |     |      |
+| 15.07. |    |     |      |
+| 16.07. |    |     |      |
+| 17.07. |    |     |      |
+| 18.07. |    |     |      |
+| 19.07. |    |     |      |
+| 20.07. |    |     |      |
+| 21.07. |    |     |      |
+| 22.07. |    |     |      |
+| 23.07. |    |     |      |
+| 24.07. |    |     |      |
+| 25.07. |    |     |      |
+| 26.07. |    |     |      |
+| 27.07. |    |     |      |
+| 28.07. |    |     |      |
+| 29.07. |    |     |      |
+| 30.07. |    |     |      |
+| 31.07. |    |     |      |
+
 
 
 
