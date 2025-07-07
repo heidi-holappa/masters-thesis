@@ -92,7 +92,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 04.07. | 9  | 604 | Found a way to used patched generated code from CDSL->ETISS. Made example fault cases. Wrote thesis. |
 | 05.07. | 4  | 608 | Worked on the thesis. Updated visualizations, finished TODOs |
 | 06.07. | 4  | 612 | Proofread first chapters, printed out the thesis |
-| 07.07. |    |     |      |
+| 07.07. | 1  | 613 | Proofread thesis, edited text |
 | 08.07. |    |     |      |
 | 09.07. |    |     |      |
 | 10.07. |    |     |      |
