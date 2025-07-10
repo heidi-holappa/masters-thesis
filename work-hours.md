@@ -95,7 +95,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 07.07. | 1  | 613 | Proofread thesis, edited text |
 | 08.07. | 2  | 615 | Had a meeting, worked on custom extension |
 | 09.07. | 3  | 618 | Worked more on custom extension, had woes.     |
-| 10.07. |    |     |      |
+| 10.07. | 3  | 621 | Implement support for new custom architecture |
 | 11.07. |    |     |      |
 | 12.07. |    |     |      |
 | 13.07. |    |     |      |
