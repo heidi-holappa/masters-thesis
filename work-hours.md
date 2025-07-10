@@ -93,8 +93,8 @@ From 05.05. onward job items are tied to kanban board job items.
 | 05.07. | 4  | 608 | Worked on the thesis. Updated visualizations, finished TODOs |
 | 06.07. | 4  | 612 | Proofread first chapters, printed out the thesis |
 | 07.07. | 1  | 613 | Proofread thesis, edited text |
-| 08.07. |    |     |      |
-| 09.07. |    |     |      |
+| 08.07. | 2  | 615 | Had a meeting, worked on custom extension |
+| 09.07. | 3  | 618 | Worked more on custom extension, had woes.     |
 | 10.07. |    |     |      |
 | 11.07. |    |     |      |
 | 12.07. |    |     |      |
