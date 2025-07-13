@@ -97,7 +97,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 09.07. | 3  | 618 | Worked more on custom extension, had woes.     |
 | 10.07. | 3  | 621 | Implement support for new custom architecture |
 | 11.07. | 2  | 623 | Tried to get the custom extension to compile with little luck. |
-| 12.07. |    |     |      |
+| 12.07. | 4  | 627 | Proofreading thesis, working on Figures |
 | 13.07. |    |     |      |
 | 14.07. |    |     |      |
 | 15.07. |    |     |      |
