@@ -96,11 +96,11 @@ From 05.05. onward job items are tied to kanban board job items.
 | 08.07. | 2  | 615 | Had a meeting, worked on custom extension |
 | 09.07. | 3  | 618 | Worked more on custom extension, had woes.     |
 | 10.07. | 3  | 621 | Implement support for new custom architecture |
-| 11.07. | 2  | 623 | Tried to get the custom extension to compile with little luck. |
-| 12.07. | 4  | 627 | Proofreading thesis, working on Figures |
-| 13.07. |    |     |      |
-| 14.07. |    |     |      |
-| 15.07. |    |     |      |
+| 11.07. | 2  | 623 | Worked on thesis. |
+| 12.07. | 2  | 625 | Tried to get the custom extension to compile with little luck. |
+| 13.07. | 4  | 629 | Proofreading thesis, working on Figures |
+| 14.07. | 2  | 631 | Preparing for meeting, meeting.   |
+| 15.07. | 0  | 631 | Anniversary ccelebration. Day off. |
 | 16.07. |    |     |      |
 | 17.07. |    |     |      |
 | 18.07. |    |     |      |
