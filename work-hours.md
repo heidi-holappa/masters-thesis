@@ -101,7 +101,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 13.07. | 4  | 629 | Proofreading thesis, working on Figures |
 | 14.07. | 2  | 631 | Preparing for meeting, meeting.   |
 | 15.07. | 0  | 631 | Anniversary ccelebration. Day off. |
-| 16.07. |    |     |      |
+| 16.07. | 2  | 633 | Re-installed xmnn flow, verified it works. Edited thesis. |
 | 17.07. |    |     |      |
 | 18.07. |    |     |      |
 | 19.07. |    |     |      |
