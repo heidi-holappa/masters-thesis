@@ -102,7 +102,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 14.07. | 2  | 631 | Preparing for meeting, meeting.   |
 | 15.07. | 0  | 631 | Anniversary ccelebration. Day off. |
 | 16.07. | 2  | 633 | Re-installed xmnn flow, verified it works. Edited thesis. |
-| 17.07. |    |     |      |
+| 17.07. | 2  | 635 | Experimented with mnn.mac fault injection, proof-read thesis. |
 | 18.07. |    |     |      |
 | 19.07. |    |     |      |
 | 20.07. |    |     |      |
