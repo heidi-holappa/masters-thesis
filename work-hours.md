@@ -49,7 +49,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 22.05. | 11 | 277 | Worked mostly on #18 and #19 |
 | 23.05. | 2  | 279 | Took a day off, but re-read the papers on DWARF introduction and HybridVerifier again.     |
 | 24.05. | 4  | 283 | Re-read the DWARF introduction twice and some sections of DWARF5 manual. Reed most of RV32 ABI specification |
-| 25.05. | 3  | 286  | Identified open DWARF issues and created tickets. Wrote more to introcution section of thesis.    |
+7| 25.05. | 3  | 286  | Identified open DWARF issues and created tickets. Wrote more to introcution section of thesis.    |
 | 26.05. | 1  | 287 | Wrote more to the introduction. Otherwise day off.   |
 | 27.05. | 10  | 297  | Tried to understand InstructionSpecificCallbackAddress. Implemented instruction specific functionality to ISAExtensionValidator |
 | 28.05. | 11 |  308 | Built a new plugin CJRTracer, built first part of the Python pipeline. Got some interesting results  |
@@ -103,8 +103,8 @@ From 05.05. onward job items are tied to kanban board job items.
 | 15.07. | 0  | 631 | Anniversary ccelebration. Day off. |
 | 16.07. | 2  | 633 | Re-installed xmnn flow, verified it works. Edited thesis. |
 | 17.07. | 2  | 635 | Experimented with mnn.mac fault injection, proof-read thesis. |
-| 18.07. |    |     |      |
-| 19.07. |    |     |      |
+| 18.07. | 0  | 635  | First moving day     |
+| 19.07. | 2  | 637 | Proof-read thesis, replied email regarding mnn.mac instruction  |
 | 20.07. |    |     |      |
 | 21.07. |    |     |      |
 | 22.07. |    |     |      |
