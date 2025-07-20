@@ -105,7 +105,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 17.07. | 2  | 635 | Experimented with mnn.mac fault injection, proof-read thesis. |
 | 18.07. | 0  | 635  | First moving day     |
 | 19.07. | 2  | 637 | Proof-read thesis, replied email regarding mnn.mac instruction  |
-| 20.07. |    |     |      |
+| 20.07. | 1  |  638 | Proof-read Chapter 4 and started on 5.  |
 | 21.07. |    |     |      |
 | 22.07. |    |     |      |
 | 23.07. |    |     |      |
