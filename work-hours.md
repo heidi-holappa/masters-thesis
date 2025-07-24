@@ -106,9 +106,9 @@ From 05.05. onward job items are tied to kanban board job items.
 | 18.07. | 0  | 635  | First moving day     |
 | 19.07. | 2  | 637 | Proof-read thesis, replied email regarding mnn.mac instruction  |
 | 20.07. | 1  |  638 | Proof-read Chapter 4 and started on 5.  |
-| 21.07. |    |     |      |
-| 22.07. |    |     |      |
-| 23.07. |    |     |      |
+| 21.07. | 0   | 638    | Moving     |
+| 22.07. | 0   | 638    | Moving     |
+| 23.07. | 0   | 638    | Moving     |
 | 24.07. |    |     |      |
 | 25.07. |    |     |      |
 | 26.07. |    |     |      |
