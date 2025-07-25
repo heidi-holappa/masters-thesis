@@ -110,7 +110,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 22.07. | 0   | 638    | Moving     |
 | 23.07. | 0   | 638    | Moving     |
 | 24.07. | 0  |  638   | Still moving, what an undertaking!     |
-| 25.07. |    |     |      |
+| 25.07. | 0  |  638   | Still moving, tomorrow I'll continue!      |
 | 26.07. |    |     |      |
 | 27.07. |    |     |      |
 | 28.07. |    |     |      |
