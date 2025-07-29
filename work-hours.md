@@ -113,8 +113,8 @@ From 05.05. onward job items are tied to kanban board job items.
 | 25.07. | 0  |  638   | Still moving, tomorrow I'll continue!      |
 | 26.07. | 3  | 641  | Read through instructor's comments, made changes     |
 | 27.07. | 3  | 644 | Read more comments, made changes. Made tickets for bigger work items. Experimented with xmnn |
-| 28.07. |    |     |      |
-| 29.07. |    |     |      |
+| 28.07. | 1   | 645    |  Prepared for a meeting    |
+| 29.07. | 1   | 646   | Finished proofreading and commenting the thesis. |
 | 30.07. |    |     |      |
 | 31.07. |    |     |      |
 
