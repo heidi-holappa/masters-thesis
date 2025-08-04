@@ -117,6 +117,25 @@ From 05.05. onward job items are tied to kanban board job items.
 | 29.07. | 1   | 646   | Finished proofreading and commenting the thesis. |
 | 30.07. | 1  | 647 | Worked on comments on thesis    |
 | 31.07. | 1   | 648  | meeting on thesis and future work     |
+| 01.08. | 2  |  650 | Proof-read thesis    |
+| 02.08. | 3  |  653 | Proof-read and edited thesis    |
+| 03.08. | 4  |  657 | Proof-read thesis and made edits, almost done    |
+| 04.08. | 2  |  659   | Finished my own proof-read. Sending thesis to professor. |
+| 05.08. |    |     |     |
+| 06.08. |    |     |     |
+| 07.08. |    |     |     |
+| 08.08. |    |     |     |
+| 09.08. |    |     |     |
+| 10.08. |    |     |     |
+| 11.08. |    |     |     |
+| 12.08. |    |     |     |
+| 13.08. |    |     |     |
+| 14.08. |    |     |     |
+| 15.08. |    |     |     |
+| 16.08. |    |     |     |
+| 17.08. |    |     |     |
+| 18.08. |    |     |     |
+| 19.08. |    |     |     |
 
 
 
