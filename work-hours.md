@@ -121,7 +121,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 02.08. | 3  |  653 | Proof-read and edited thesis    |
 | 03.08. | 4  |  657 | Proof-read thesis and made edits, almost done    |
 | 04.08. | 2  |  659   | Finished my own proof-read. Sending thesis to professor. |
-| 05.08. |    |     |     |
+| 05.08. | 0  |  659   | Travel day. Going to see my mom. |
 | 06.08. |    |     |     |
 | 07.08. |    |     |     |
 | 08.08. |    |     |     |
