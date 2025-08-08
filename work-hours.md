@@ -122,9 +122,9 @@ From 05.05. onward job items are tied to kanban board job items.
 | 03.08. | 4  |  657 | Proof-read thesis and made edits, almost done    |
 | 04.08. | 2  |  659   | Finished my own proof-read. Sending thesis to professor. |
 | 05.08. | 0  |  659   | Travel day. Going to see my mom. |
-| 06.08. |    |     |     |
-| 07.08. |    |     |     |
-| 08.08. |    |     |     |
+| 06.08. | 2  |  641 |  Gathered articles on fuzzing and started reading |
+| 07.08. | 3   |  644   |  Read articles, experimented with Csmith   |
+| 08.08. | 5   |  649   |  Experimented more with Csmith, made changes to ETISS-GTS. Read more.   |
 | 09.08. |    |     |     |
 | 10.08. |    |     |     |
 | 11.08. |    |     |     |
