@@ -125,10 +125,10 @@ From 05.05. onward job items are tied to kanban board job items.
 | 06.08. | 2  |  641 |  Gathered articles on fuzzing and started reading |
 | 07.08. | 3   |  644   |  Read articles, experimented with Csmith   |
 | 08.08. | 5   |  649   |  Experimented more with Csmith, made changes to ETISS-GTS. Read more.   |
-| 09.08. |    |     |     |
-| 10.08. |    |     |     |
-| 11.08. |    |     |     |
-| 12.08. |    |     |     |
+| 09.08. | 2  |   651  | Read more on fuzzing, continued experimentations, worked on ETISS-GTS glob variables  |
+| 10.08. | 0  |  651   | Travelling day  |
+| 11.08. | 0  |  651 | Working on new second home  |
+| 12.08. | 2  |  653 |  Met with professor, identified and planned last work items.   |
 | 13.08. |    |     |     |
 | 14.08. |    |     |     |
 | 15.08. |    |     |     |
