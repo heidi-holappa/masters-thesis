@@ -130,9 +130,9 @@ From 05.05. onward job items are tied to kanban board job items.
 | 11.08. | 0  |  651 | Working on new second home  |
 | 12.08. | 2  |  653 |  Met with professor, identified and planned last work items.   |
 | 13.08. | 4  |  657 | Worked on professor's comments, cleaned Kanban board and organized final open issues. |
-| 14.08. |    |     |     |
-| 15.08. |    |     |     |
-| 16.08. |    |     |     |
+| 14.08. | 0   | 657 | Travel day    |
+| 15.08. | 0   | 657  | Travel day     |
+| 16.08. | 3   | 660  |  Worked on comments from TUM. Only a few more comments to go!   |
 | 17.08. |    |     |     |
 | 18.08. |    |     |     |
 | 19.08. |    |     |     |
