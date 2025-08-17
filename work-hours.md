@@ -133,7 +133,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 14.08. | 0   | 657 | Travel day    |
 | 15.08. | 0   | 657  | Travel day     |
 | 16.08. | 3   | 660  |  Worked on comments from TUM. Only a few more comments to go!   |
-| 17.08. |    |     |     |
+| 17.08. | 4  |  664 |  Resolved final comments and began the final proof-read   |
 | 18.08. |    |     |     |
 | 19.08. |    |     |     |
 
