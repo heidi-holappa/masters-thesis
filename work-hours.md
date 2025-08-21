@@ -137,7 +137,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 18.08. | 3  |  657   | Proof-read thesis    |
 | 19.08. | 2  | 659 | Proof-read thesis    |
 | 20.08. | 0 |  659  | travel-day    |
-| 21.08. |   |    |     |
+| 21.08. | 0  | 659   |  Busy gardening.   |
 | 22.08. |   |    |     |
 | 23.08. |   |    |     |
 | 24.08. |   |    |     |
