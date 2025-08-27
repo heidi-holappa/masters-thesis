@@ -139,11 +139,11 @@ From 05.05. onward job items are tied to kanban board job items.
 | 20.08. | 0 |  659  | travel-day    |
 | 21.08. | 0  | 659   |  Busy gardening.   |
 | 22.08. | 1  | 660   | Continued proof-reading   |
-| 23.08. |   |    |     |
-| 24.08. |   |    |     |
-| 25.08. |   |    |     |
-| 26.08. |   |    |     |
-| 27.08. |   |    |     |
+| 23.08. | 4 | 664 | Continued proof-reading    |
+| 24.08. | 2 | 666 | Proof-reading again.  |
+| 25.08. | 0 | 666 | Went furniture shopping    |
+| 26.08. | 2 | 668 | Proof-reading continues, almost there! |
+| 27.08. | 2 | 670   | Finished proof-reading and making edits. The thesis is ready!  |
 | 28.08. |   |    |     |
 | 29.08. |   |    |     |
 | 30.08. |   |    |     |
