@@ -144,7 +144,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 25.08. | 0 | 666 | Went furniture shopping    |
 | 26.08. | 2 | 668 | Proof-reading continues, almost there! |
 | 27.08. | 2 | 670   | Finished proof-reading and making edits. The thesis is ready!  |
-| 28.08. |   |    |     |
+| 28.08. | 4 | 674 | Listened lectures on giving a scientific presentation. Started working on slides  |
 | 29.08. |   |    |     |
 | 30.08. |   |    |     |
 | 31.08. |   |    |     |
