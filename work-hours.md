@@ -145,9 +145,37 @@ From 05.05. onward job items are tied to kanban board job items.
 | 26.08. | 2 | 668 | Proof-reading continues, almost there! |
 | 27.08. | 2 | 670   | Finished proof-reading and making edits. The thesis is ready!  |
 | 28.08. | 4 | 674 | Listened lectures on giving a scientific presentation. Started working on slides  |
-| 29.08. |   |    |     |
-| 30.08. |   |    |     |
-| 31.08. |   |    |     |
-
-
-
+| 29.08. | 0 |  674 | Travel day    |
+| 30.08. | 2 |  676  | Worked on presentation  |
+| 31.08. | 3 |  679 | Worked on the presentation |
+| 01.09. |  |   |   |
+| 01.09. |  |   |   |
+| 02.09. |  |   |   |
+| 03.09. |  |   |   |
+| 04.09. |  |   |   |
+| 05.09. |  |   |   |
+| 06.09. |  |   |   |
+| 07.09. |  |   |   |
+| 08.09. |  |   |   |
+| 09.09. |  |   |   |
+| 10.09. |  |   |   |
+| 11.09. |  |   |   |
+| 12.09. |  |   |   |
+| 13.09. |  |   |   |
+| 14.09. |  |   |   |
+| 15.09. |  |   |   |
+| 16.09. |  |   |   |
+| 17.09. |  |   |   |
+| 18.09. |  |   |   |
+| 19.09. |  |   |   |
+| 20.09. |  |   |   |
+| 21.09. |  |   |   |
+| 22.09. |  |   |   |
+| 23.09. |  |   |   |
+| 24.09. |  |   |   |
+| 25.09. |  |   |   |
+| 26.09. |  |   |   |
+| 27.09. |  |   |   |
+| 28.09. |  |   |   |
+| 29.09. |  |   |   |
+| 30.09. |  |   |   |
