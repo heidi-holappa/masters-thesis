@@ -148,7 +148,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 29.08. | 0 |  674 | Travel day    |
 | 30.08. | 2 |  676  | Worked on presentation  |
 | 31.08. | 3 |  679 | Worked on the presentation |
-| 01.09. |  |   |   |
+| 01.09. | 4| 683 | Worked on the presentation   |
 | 01.09. |  |   |   |
 | 02.09. |  |   |   |
 | 03.09. |  |   |   |
