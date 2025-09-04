@@ -150,9 +150,9 @@ From 05.05. onward job items are tied to kanban board job items.
 | 31.08. | 3 |  679 | Worked on the presentation |
 | 01.09. | 4| 683 | Worked on the presentation   |
 | 01.09. | 4| 687| Meeting, worked more on the presentation. |
-| 02.09. |  |   |   |
-| 03.09. |  |   |   |
-| 04.09. |  |   |   |
+| 02.09. | 3| 670| Finished the slide sets, sent for comments. |
+| 03.09. | 3| 673  | Made adjustments, practised the presentation  |
+| 04.09. | 2 |675| Practiced the presentation, made some final adjustments  |
 | 05.09. |  |   |   |
 | 06.09. |  |   |   |
 | 07.09. |  |   |   |
