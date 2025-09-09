@@ -157,7 +157,7 @@ From 05.05. onward job items are tied to kanban board job items.
 | 06.09. | 2   |678   | Still practicing   |
 | 07.09. | 2   |680   | More practice  |
 | 08.09. | 3  | 683  | Working again on slides, making the presentation tighter. Uploaded slides  |
-| 09.09. |  |   |   |
+| 09.09. |2 | 685  | Got final notes for the Wien presentation and finalized the slides.  |
 | 10.09. |  |   |   |
 | 11.09. |  |   |   |
 | 12.09. |  |   |   |
